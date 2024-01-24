@@ -24,3 +24,4 @@ symfony console doctrine:database:create
 symfony console doctrine:schema:update --force
 
 # snow
+# snowtrick1
